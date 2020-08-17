@@ -25,3 +25,5 @@ Example Output
 aaakaeekmnnry
 abohotypsu
 aabadawyehhorst
+
+https://www.codechef.com/AUG20B/problems/SKMP
